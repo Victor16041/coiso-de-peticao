@@ -22,7 +22,7 @@ dados2 = json.load(arquivo2)
 email1 = random.choice(dados2)
 email2 = email1['email']
 
-link_do_negocio = "https://c.org/C86YJtDCxW"
+link_do_negocio = "SITE_DO_NEGOCIO_AQUI"
 
 keyboard.press_and_release('ctrl+shift+p')
 time.sleep(0.5)
